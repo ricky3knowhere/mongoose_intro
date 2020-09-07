@@ -1,0 +1,22 @@
+{
+  "name": "mongoose_intro",
+  "version": "1.0.0",
+  "description": "mongoose intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "ricky03knowhere",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.4",
+    "mongoose": "^5.10.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "pm2": "^4.4.1",
+    "portfinder": "^1.0.28"
+  }
+}
